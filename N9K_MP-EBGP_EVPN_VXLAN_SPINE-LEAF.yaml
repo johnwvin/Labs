@@ -1,0 +1,2154 @@
+annotations:
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FFFF83FF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -301.08425349355934
+    y1: 157.3264184584837
+    x2: 97.98953215247703
+    y2: 88.49054689279818
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: BGP ASN 65101
+    text_font: monospace
+    text_italic: false
+    text_size: 17
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -461.21664339957516
+    y1: 117.17654625613292
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: BGP ASN 65001
+    text_font: monospace
+    text_italic: false
+    text_size: 20
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -392.5454849602411
+    y1: -183.6885351607617
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: BGP ASN 65002
+    text_font: monospace
+    text_italic: false
+    text_size: 20
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 207.55780315658816
+    y1: -181.76002655159485
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: BGP ASN 65102
+    text_font: monospace
+    text_italic: false
+    text_size: 17
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -184.7551670868336
+    y1: 121.742882560449
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: BGP ASN 65103
+    text_font: monospace
+    text_italic: false
+    text_size: 17
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 357.45214307705663
+    y1: 139.17807777092256
+    z_index: 1
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FF83F8FF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: 145.43313395357768
+    y1: -128.00176434902858
+    x2: 97.98953215247703
+    y2: 88.49054689279818
+    z_index: 0
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#DAF050FF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: 284.71276833140416
+    y1: 162.02423267405996
+    x2: 97.98953215247703
+    y2: 88.49054689279818
+    z_index: 0
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#83F0FFFF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -1.7267164951077234
+    y1: 157.73943369084904
+    x2: 97.98953215247703
+    y2: 88.49054689279818
+    z_index: 0
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#BAFF83FF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -165.52082888027562
+    y1: -127.98894657655163
+    x2: 97.98953215247703
+    y2: 88.49054689279818
+    z_index: 0
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FF8080FF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -299.6504080413127
+    y1: 377.5937521108104
+    x2: 103.54072871384318
+    y2: 79.4023993204319
+    z_index: 2
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FF8080FF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -38.790557548365655
+    y1: 377.26673132624626
+    x2: 103.54072871384318
+    y2: 79.4023993204319
+    z_index: 2
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FF8080FF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: 202.18111853810984
+    y1: 382.0966880111132
+    x2: 103.54072871384318
+    y2: 79.4023993204319
+    z_index: 2
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#CBCBCBFF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -102.32530580817198
+    y1: 398.5867130649565
+    x2: 547.2504693702115
+    y2: 124.76991557035353
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: true
+    text_content: VNI 1000
+    text_font: monospace
+    text_italic: false
+    text_size: 20
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -600.1275520876333
+    y1: 381.0016914073901
+    z_index: 3
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#060303FF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -389.54732621509334
+    y1: 324.2775896532866
+    x2: 69.10535668113837
+    y2: 57.15984802823232
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: VLAN 100
+    text_font: monospace
+    text_italic: false
+    text_size: 17
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -439.5445464357479
+    y1: 312.1420335272161
+    z_index: 3
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#060303FF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: 124.41087655551152
+    y1: 334.1318382403153
+    x2: 69.10535668113837
+    y2: 57.15984802823232
+    z_index: 2
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#060303FF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -126.99805376987817
+    y1: 330.58797508824557
+    x2: 69.10535668113837
+    y2: 57.15984802823232
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: VLAN 200
+    text_font: monospace
+    text_italic: false
+    text_size: 17
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -180.15046670801217
+    y1: 320.3215181468572
+    z_index: 3
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: VLAN 300
+    text_font: monospace
+    text_italic: false
+    text_size: 17
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 77.56884905233643
+    y1: 321.80194689694946
+    z_index: 3
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: 10.1.0.10/16
+    text_font: monospace
+    text_italic: false
+    text_size: 17
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -382.8627106438758
+    y1: 404.3052536518336
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: 10.1.0.30/16
+    text_font: monospace
+    text_italic: false
+    text_size: 17
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 126.07120022456706
+    y1: 410.9614657429513
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: 10.1.0.20/16
+    text_font: monospace
+    text_italic: false
+    text_size: 17
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -116.50943594729466
+    y1: 409.0923665582688
+    z_index: 4
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FFFFFFFF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -384.3097043089962
+    y1: 140.64776086998808
+    x2: 90.04040620254244
+    y2: 53.86345728187804
+    z_index: 0
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FFFFFFFF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -106.49979094695895
+    y1: 146.11433898756
+    x2: 90.04040620254244
+    y2: 53.86345728187804
+    z_index: 0
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FFFFFFFF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -301.45608631329696
+    y1: -157.0033762488208
+    x2: 115.71960160385808
+    y2: 53.86345728187804
+    z_index: 0
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FFFFFFFF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: 299.1310568460756
+    y1: -150.8251544051016
+    x2: 117.28909275585059
+    y2: 53.86345728187804
+    z_index: 0
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FFFFFFFF'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: 428.6245886803877
+    y1: 163.30216591291432
+    x2: 111.94813246693346
+    y2: 53.86345728187804
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: 10.2.0.1/32
+    text_font: monospace
+    text_italic: false
+    text_size: 17
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -377.97563259146807
+    y1: -152.81424323298333
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: 10.2.0.2/32
+    text_font: monospace
+    text_italic: false
+    text_size: 17
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 227.1624896119136
+    y1: -151.5250565397902
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: 10.2.0.3/32
+    text_font: monospace
+    text_italic: false
+    text_size: 17
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -455.484088991795
+    y1: 143.79316612601224
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: 10.2.0.5/32
+    text_font: monospace
+    text_italic: false
+    text_size: 17
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 363.45939027812955
+    y1: 171.2005463687617
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: 10.2.0.4/32
+    text_font: monospace
+    text_italic: false
+    text_size: 17
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -177.60006423500133
+    y1: 148.23744758250916
+    z_index: 4
+smart_annotations: []
+nodes:
+  - boot_disk_size: null
+    configuration:
+      - name: nxos_config.txt
+        content: |2-
+
+          !Command: show running-config
+          !Running configuration last done at: Sun Jan 25 17:28:04 2026
+          !Time: Sun Jan 25 17:28:04 2026
+
+          version 10.5(3) Bios:version
+          hostname SPINE-1
+          vdc SPINE-1 id 1
+            limit-resource vlan minimum 16 maximum 4094
+            limit-resource vrf minimum 2 maximum 4096
+            limit-resource port-channel minimum 0 maximum 511
+            limit-resource m4route-mem minimum 58 maximum 58
+            limit-resource m6route-mem minimum 8 maximum 8
+
+          nv overlay evpn
+          feature ospf
+          feature bgp
+          feature vn-segment-vlan-based
+          feature nv overlay
+
+          no password strength-check
+          username admin password 5 $5$DMEMPE$EiwDrc0PmFWy/g.ShbJ1VfbSNkjMn6T9uDG/.YfkXh9  role network-admin
+          username cisco password 5 $5$MNBEKC$oNU8TFEZJaxg.Fw/UDsKpcePWLhIYEWMJXB/soUJsa3  role network-admin
+          username cisco passphrase  lifetime 99999 warntime 14 gracetime 3
+          ip domain-lookup
+          hardware access-list tcam region racl 1024
+          hardware access-list tcam region vpc-convergence 0
+          hardware access-list tcam region arp-ether 256 double-wide
+          snmp-server user admin network-admin auth md5 3308720F5A990010237AD3437E96A4FC1B42 priv aes-128 52225A6666F3361A683DA2063F95BE804F16 localizedV2key
+          snmp-server user cisco network-admin auth md5 174D26242CE864294A5FCB1B6294ABD45E09 priv aes-128 5203294A46C01052642DAE262582EFCA1E0F localizedV2key
+          rmon event 1 log trap public description FATAL(1) owner PMON@FATAL
+          rmon event 2 log trap public description CRITICAL(2) owner PMON@CRITICAL
+          rmon event 3 log trap public description ERROR(3) owner PMON@ERROR
+          rmon event 4 log trap public description WARNING(4) owner PMON@WARNING
+          rmon event 5 log trap public description INFORMATION(5) owner PMON@INFO
+
+          vlan 1
+
+          route-map NEXT-HOP-UNCH permit 10
+            set ip next-hop unchanged
+          vrf context management
+
+
+          interface Vlan1
+
+          interface Ethernet1/1
+            no switchport
+            mtu 9216
+            medium p2p
+            ip unnumbered loopback0
+            ip ospf network point-to-point
+            ip router ospf UNDERLAY area 0.0.0.0
+            no shutdown
+
+          interface Ethernet1/2
+            no switchport
+            mtu 9216
+            medium p2p
+            ip unnumbered loopback0
+            ip ospf network point-to-point
+            ip router ospf UNDERLAY area 0.0.0.0
+            no shutdown
+
+          interface Ethernet1/3
+            no switchport
+            mtu 9216
+            medium p2p
+            ip unnumbered loopback0
+            ip ospf network point-to-point
+            ip router ospf UNDERLAY area 0.0.0.0
+            no shutdown
+
+          interface Ethernet1/4
+
+          interface Ethernet1/5
+
+          interface Ethernet1/6
+
+          interface Ethernet1/7
+
+          interface Ethernet1/8
+
+          interface Ethernet1/9
+
+          interface Ethernet1/10
+
+          interface Ethernet1/11
+
+          interface Ethernet1/12
+
+          interface Ethernet1/13
+
+          interface Ethernet1/14
+
+          interface Ethernet1/15
+
+          interface Ethernet1/16
+
+          interface Ethernet1/17
+
+          interface Ethernet1/18
+
+          interface Ethernet1/19
+
+          interface Ethernet1/20
+
+          interface Ethernet1/21
+
+          interface Ethernet1/22
+
+          interface Ethernet1/23
+
+          interface Ethernet1/24
+
+          interface Ethernet1/25
+
+          interface Ethernet1/26
+
+          interface Ethernet1/27
+
+          interface Ethernet1/28
+
+          interface Ethernet1/29
+
+          interface Ethernet1/30
+
+          interface Ethernet1/31
+
+          interface Ethernet1/32
+
+          interface Ethernet1/33
+
+          interface Ethernet1/34
+
+          interface Ethernet1/35
+
+          interface Ethernet1/36
+
+          interface Ethernet1/37
+
+          interface Ethernet1/38
+
+          interface Ethernet1/39
+
+          interface Ethernet1/40
+
+          interface Ethernet1/41
+
+          interface Ethernet1/42
+
+          interface Ethernet1/43
+
+          interface Ethernet1/44
+
+          interface Ethernet1/45
+
+          interface Ethernet1/46
+
+          interface Ethernet1/47
+
+          interface Ethernet1/48
+
+          interface Ethernet1/49
+
+          interface Ethernet1/50
+
+          interface Ethernet1/51
+
+          interface Ethernet1/52
+
+          interface Ethernet1/53
+
+          interface Ethernet1/54
+
+          interface Ethernet1/55
+
+          interface Ethernet1/56
+
+          interface Ethernet1/57
+
+          interface Ethernet1/58
+
+          interface Ethernet1/59
+
+          interface Ethernet1/60
+
+          interface Ethernet1/61
+
+          interface Ethernet1/62
+
+          interface Ethernet1/63
+
+          interface Ethernet1/64
+
+          interface mgmt0
+            vrf member management
+
+          interface loopback0
+            ip address 10.2.0.1/32
+            ip router ospf UNDERLAY area 0.0.0.0
+
+          interface loopback1
+            ip address 10.10.10.10/32
+            ip router ospf UNDERLAY area 0.0.0.0
+          icam monitor scale
+
+          line console
+            exec-timeout 0
+          line vty
+            exec-timeout 0
+          boot nxos bootflash:/nxos64-cs.10.5.3.F.bin
+          router ospf UNDERLAY
+          router bgp 65001
+            address-family l2vpn evpn
+              maximum-paths 100
+              retain route-target all
+            template peer PEER-TEMPLATE
+              update-source loopback1
+              disable-connected-check
+              ebgp-multihop 10
+              address-family l2vpn evpn
+                disable-peer-as-check
+                send-community extended
+                route-map NEXT-HOP-UNCH out
+            neighbor 10.10.10.1
+              inherit peer PEER-TEMPLATE
+              remote-as 65101
+            neighbor 10.10.10.2
+              inherit peer PEER-TEMPLATE
+              remote-as 65102
+            neighbor 10.10.10.3
+              inherit peer PEER-TEMPLATE
+              remote-as 65103
+            neighbor 10.10.10.11
+              inherit peer PEER-TEMPLATE
+              remote-as 65002
+          evpn
+
+          no logging console
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n0
+    image_definition: null
+    label: SPINE-1
+    node_definition: nxosv9000
+    parameters: {}
+    ram: null
+    tags: []
+    x: -158
+    y: -132
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: mgmt0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet1/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet1/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet1/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/4
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: Ethernet1/5
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: Ethernet1/6
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: Ethernet1/7
+        mac_address: null
+        type: physical
+        slot: 7
+  - boot_disk_size: null
+    configuration:
+      - name: nxos_config.txt
+        content: |2-
+
+          !Command: show running-config
+          !Running configuration last done at: Sun Jan 25 17:27:29 2026
+          !Time: Sun Jan 25 17:27:29 2026
+
+          version 10.5(3) Bios:version
+          hostname LEAF-1
+          vdc LEAF-1 id 1
+            limit-resource vlan minimum 16 maximum 4094
+            limit-resource vrf minimum 2 maximum 4096
+            limit-resource port-channel minimum 0 maximum 511
+            limit-resource m4route-mem minimum 58 maximum 58
+            limit-resource m6route-mem minimum 8 maximum 8
+
+          nv overlay evpn
+          feature ospf
+          feature bgp
+          feature vn-segment-vlan-based
+          feature nv overlay
+
+          no password strength-check
+          username admin password 5 $5$OKPGFC$grwYHCbDRorfJhUt7AKcVgn81WtFnP7K4kswiOkjJy/  role network-admin
+          username cisco password 5 $5$JIOBOK$icoaRV6FFKkEiYYRy7VIbbQfP/BN.XnJm6Fj1xmrNH3  role network-admin
+          username cisco passphrase  lifetime 99999 warntime 14 gracetime 3
+          ip domain-lookup
+          hardware access-list tcam region racl 1024
+          hardware access-list tcam region vpc-convergence 0
+          hardware access-list tcam region arp-ether 256 double-wide
+          snmp-server user admin network-admin auth md5 480FDBC2971C88DDD2AD0FE6DE10C5D5EE4C priv aes-128 0070B2E3F025B6B1C38901819C1EB1CFE40D localizedV2key
+          snmp-server user cisco network-admin auth md5 0177D7CE8149AFD6B0EA0CC09A46F19EAA74 priv aes-128 323CD9948762C7C3C0EF068CD508B4D08422 localizedV2key
+          rmon event 1 log trap public description FATAL(1) owner PMON@FATAL
+          rmon event 2 log trap public description CRITICAL(2) owner PMON@CRITICAL
+          rmon event 3 log trap public description ERROR(3) owner PMON@ERROR
+          rmon event 4 log trap public description WARNING(4) owner PMON@WARNING
+          rmon event 5 log trap public description INFORMATION(5) owner PMON@INFO
+
+          vlan 1,100
+          vlan 100
+            vn-segment 1000
+
+          route-map NEXT-HOP-UNCH permit 10
+            set ip next-hop unchanged
+          vrf context management
+
+
+          interface Vlan1
+
+          interface nve1
+            no shutdown
+            host-reachability protocol bgp
+            source-interface loopback1
+            global suppress-arp
+            global ingress-replication protocol bgp
+            member vni 1000
+
+          interface Ethernet1/1
+            no switchport
+            mtu 9216
+            medium p2p
+            ip unnumbered loopback0
+            ip ospf network point-to-point
+            ip router ospf UNDERLAY area 0.0.0.0
+            no shutdown
+
+          interface Ethernet1/2
+            no switchport
+            mtu 9216
+            medium p2p
+            ip unnumbered loopback0
+            ip ospf network point-to-point
+            ip router ospf UNDERLAY area 0.0.0.0
+            no shutdown
+
+          interface Ethernet1/3
+            switchport access vlan 100
+
+          interface Ethernet1/4
+            switchport access vlan 100
+
+          interface Ethernet1/5
+            switchport access vlan 100
+
+          interface Ethernet1/6
+
+          interface Ethernet1/7
+
+          interface Ethernet1/8
+
+          interface Ethernet1/9
+
+          interface Ethernet1/10
+
+          interface Ethernet1/11
+
+          interface Ethernet1/12
+
+          interface Ethernet1/13
+
+          interface Ethernet1/14
+
+          interface Ethernet1/15
+
+          interface Ethernet1/16
+
+          interface Ethernet1/17
+
+          interface Ethernet1/18
+
+          interface Ethernet1/19
+
+          interface Ethernet1/20
+
+          interface Ethernet1/21
+
+          interface Ethernet1/22
+
+          interface Ethernet1/23
+
+          interface Ethernet1/24
+
+          interface Ethernet1/25
+
+          interface Ethernet1/26
+
+          interface Ethernet1/27
+
+          interface Ethernet1/28
+
+          interface Ethernet1/29
+
+          interface Ethernet1/30
+
+          interface Ethernet1/31
+
+          interface Ethernet1/32
+
+          interface Ethernet1/33
+
+          interface Ethernet1/34
+
+          interface Ethernet1/35
+
+          interface Ethernet1/36
+
+          interface Ethernet1/37
+
+          interface Ethernet1/38
+
+          interface Ethernet1/39
+
+          interface Ethernet1/40
+
+          interface Ethernet1/41
+
+          interface Ethernet1/42
+
+          interface Ethernet1/43
+
+          interface Ethernet1/44
+
+          interface Ethernet1/45
+
+          interface Ethernet1/46
+
+          interface Ethernet1/47
+
+          interface Ethernet1/48
+
+          interface Ethernet1/49
+
+          interface Ethernet1/50
+
+          interface Ethernet1/51
+
+          interface Ethernet1/52
+
+          interface Ethernet1/53
+
+          interface Ethernet1/54
+
+          interface Ethernet1/55
+
+          interface Ethernet1/56
+
+          interface Ethernet1/57
+
+          interface Ethernet1/58
+
+          interface Ethernet1/59
+
+          interface Ethernet1/60
+
+          interface Ethernet1/61
+
+          interface Ethernet1/62
+
+          interface Ethernet1/63
+
+          interface Ethernet1/64
+
+          interface mgmt0
+            vrf member management
+
+          interface loopback0
+            ip address 10.2.0.3/32
+            ip router ospf UNDERLAY area 0.0.0.0
+
+          interface loopback1
+            ip address 10.10.10.1/32
+            ip router ospf UNDERLAY area 0.0.0.0
+          icam monitor scale
+
+          line console
+            exec-timeout 0
+          line vty
+            exec-timeout 0
+          boot nxos bootflash:/nxos64-cs.10.5.3.F.bin
+          router ospf UNDERLAY
+          router bgp 65101
+            address-family l2vpn evpn
+              maximum-paths 100
+              retain route-target all
+            template peer PEER-TEMPLATE
+              update-source loopback1
+              disable-connected-check
+              ebgp-multihop 10
+              address-family l2vpn evpn
+                disable-peer-as-check
+                send-community extended
+                route-map NEXT-HOP-UNCH out
+            neighbor 10.10.10.2
+              inherit peer PEER-TEMPLATE
+              remote-as 65102
+            neighbor 10.10.10.3
+              inherit peer PEER-TEMPLATE
+              remote-as 65103
+            neighbor 10.10.10.10
+              inherit peer PEER-TEMPLATE
+              remote-as 65001
+            neighbor 10.10.10.11
+              inherit peer PEER-TEMPLATE
+              remote-as 65002
+          evpn
+            vni 1000 l2
+              rd 65101:1
+              route-target import 65102:1
+              route-target import 65103:1
+              route-target export 65102:1
+              route-target export 65103:1
+
+          no logging console
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n1
+    image_definition: null
+    label: LEAF-1
+    node_definition: nxosv9000
+    parameters: {}
+    ram: null
+    tags: []
+    x: -280
+    y: 176
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: mgmt0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet1/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet1/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet1/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/4
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: Ethernet1/5
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: Ethernet1/6
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: Ethernet1/7
+        mac_address: null
+        type: physical
+        slot: 7
+  - boot_disk_size: null
+    configuration:
+      - name: nxos_config.txt
+        content: |2-
+
+          !Command: show running-config
+          !Running configuration last done at: Sun Jan 25 17:27:25 2026
+          !Time: Sun Jan 25 17:27:25 2026
+
+          version 10.5(3) Bios:version
+          hostname LEAF-2
+          vdc LEAF-2 id 1
+            limit-resource vlan minimum 16 maximum 4094
+            limit-resource vrf minimum 2 maximum 4096
+            limit-resource port-channel minimum 0 maximum 511
+            limit-resource m4route-mem minimum 58 maximum 58
+            limit-resource m6route-mem minimum 8 maximum 8
+
+          nv overlay evpn
+          feature ospf
+          feature bgp
+          feature vn-segment-vlan-based
+          feature nv overlay
+
+          no password strength-check
+          username admin password 5 $5$FBBMHB$yD2pXKlSoASks8rtWFQQhX451XVy.DFpstfEINeJT21  role network-admin
+          username cisco password 5 $5$FCEBDC$hWQ77NEl/rYUjADPVlURlYiYeYLKA/n40HOJY8627Y1  role network-admin
+          username cisco passphrase  lifetime 99999 warntime 14 gracetime 3
+          ip domain-lookup
+          hardware access-list tcam region racl 1024
+          hardware access-list tcam region vpc-convergence 0
+          hardware access-list tcam region arp-ether 256 double-wide
+          snmp-server user admin network-admin auth md5 054AD3C770D6350E49586A25790A8DBAF65E priv aes-128 366AD58815C201045B5F69313D1DD1CF8A5C localizedV2key
+          snmp-server user cisco network-admin auth md5 177C82BD2A9A7B085B1503452450CB918E2F priv aes-128 175CD2B729E807286020323C3C51D2B3C337 localizedV2key
+          rmon event 1 log trap public description FATAL(1) owner PMON@FATAL
+          rmon event 2 log trap public description CRITICAL(2) owner PMON@CRITICAL
+          rmon event 3 log trap public description ERROR(3) owner PMON@ERROR
+          rmon event 4 log trap public description WARNING(4) owner PMON@WARNING
+          rmon event 5 log trap public description INFORMATION(5) owner PMON@INFO
+
+          vlan 1,200
+          vlan 200
+            vn-segment 1000
+
+          route-map NEXT-HOP-UNCH permit 10
+            set ip next-hop unchanged
+          vrf context management
+
+
+          interface Vlan1
+
+          interface nve1
+            no shutdown
+            host-reachability protocol bgp
+            source-interface loopback1
+            global suppress-arp
+            global ingress-replication protocol bgp
+            member vni 1000
+
+          interface Ethernet1/1
+            no switchport
+            mtu 9216
+            medium p2p
+            ip unnumbered loopback0
+            ip ospf network point-to-point
+            ip router ospf UNDERLAY area 0.0.0.0
+            no shutdown
+
+          interface Ethernet1/2
+            no switchport
+            mtu 9216
+            medium p2p
+            ip unnumbered loopback0
+            ip ospf network point-to-point
+            ip router ospf UNDERLAY area 0.0.0.0
+            no shutdown
+
+          interface Ethernet1/3
+            switchport access vlan 200
+
+          interface Ethernet1/4
+            switchport access vlan 200
+
+          interface Ethernet1/5
+            switchport access vlan 200
+
+          interface Ethernet1/6
+
+          interface Ethernet1/7
+
+          interface Ethernet1/8
+
+          interface Ethernet1/9
+
+          interface Ethernet1/10
+
+          interface Ethernet1/11
+
+          interface Ethernet1/12
+
+          interface Ethernet1/13
+
+          interface Ethernet1/14
+
+          interface Ethernet1/15
+
+          interface Ethernet1/16
+
+          interface Ethernet1/17
+
+          interface Ethernet1/18
+
+          interface Ethernet1/19
+
+          interface Ethernet1/20
+
+          interface Ethernet1/21
+
+          interface Ethernet1/22
+
+          interface Ethernet1/23
+
+          interface Ethernet1/24
+
+          interface Ethernet1/25
+
+          interface Ethernet1/26
+
+          interface Ethernet1/27
+
+          interface Ethernet1/28
+
+          interface Ethernet1/29
+
+          interface Ethernet1/30
+
+          interface Ethernet1/31
+
+          interface Ethernet1/32
+
+          interface Ethernet1/33
+
+          interface Ethernet1/34
+
+          interface Ethernet1/35
+
+          interface Ethernet1/36
+
+          interface Ethernet1/37
+
+          interface Ethernet1/38
+
+          interface Ethernet1/39
+
+          interface Ethernet1/40
+
+          interface Ethernet1/41
+
+          interface Ethernet1/42
+
+          interface Ethernet1/43
+
+          interface Ethernet1/44
+
+          interface Ethernet1/45
+
+          interface Ethernet1/46
+
+          interface Ethernet1/47
+
+          interface Ethernet1/48
+
+          interface Ethernet1/49
+
+          interface Ethernet1/50
+
+          interface Ethernet1/51
+
+          interface Ethernet1/52
+
+          interface Ethernet1/53
+
+          interface Ethernet1/54
+
+          interface Ethernet1/55
+
+          interface Ethernet1/56
+
+          interface Ethernet1/57
+
+          interface Ethernet1/58
+
+          interface Ethernet1/59
+
+          interface Ethernet1/60
+
+          interface Ethernet1/61
+
+          interface Ethernet1/62
+
+          interface Ethernet1/63
+
+          interface Ethernet1/64
+
+          interface mgmt0
+            vrf member management
+
+          interface loopback0
+            ip address 10.2.0.4/32
+            ip router ospf UNDERLAY area 0.0.0.0
+
+          interface loopback1
+            ip address 10.10.10.2/32
+            ip router ospf UNDERLAY area 0.0.0.0
+          icam monitor scale
+
+          line console
+            exec-timeout 0
+          line vty
+            exec-timeout 0
+          boot nxos bootflash:/nxos64-cs.10.5.3.F.bin
+          router ospf UNDERLAY
+          router bgp 65102
+            address-family l2vpn evpn
+              maximum-paths 100
+              retain route-target all
+            template peer PEER-TEMPLATE
+              update-source loopback1
+              disable-connected-check
+              ebgp-multihop 10
+              address-family l2vpn evpn
+                disable-peer-as-check
+                send-community extended
+                route-map NEXT-HOP-UNCH out
+            neighbor 10.10.10.1
+              inherit peer PEER-TEMPLATE
+              remote-as 65101
+            neighbor 10.10.10.3
+              inherit peer PEER-TEMPLATE
+              remote-as 65103
+            neighbor 10.10.10.10
+              inherit peer PEER-TEMPLATE
+              remote-as 65001
+            neighbor 10.10.10.11
+              inherit peer PEER-TEMPLATE
+              remote-as 65002
+          evpn
+            vni 1000 l2
+              rd 65102:1
+              route-target import 65101:1
+              route-target import 65103:1
+              route-target export 65101:1
+              route-target export 65103:1
+
+          no logging console
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n2
+    image_definition: null
+    label: LEAF-2
+    node_definition: nxosv9000
+    parameters: {}
+    ram: null
+    tags: []
+    x: 16
+    y: 157
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: mgmt0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet1/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet1/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet1/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/4
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: Ethernet1/5
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: Ethernet1/6
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: Ethernet1/7
+        mac_address: null
+        type: physical
+        slot: 7
+  - boot_disk_size: null
+    configuration:
+      - name: nxos_config.txt
+        content: |2-
+
+          !Command: show running-config
+          !Running configuration last done at: Sun Jan 25 17:27:26 2026
+          !Time: Sun Jan 25 17:27:26 2026
+
+          version 10.5(3) Bios:version
+          hostname SPINE-2
+          vdc SPINE-2 id 1
+            limit-resource vlan minimum 16 maximum 4094
+            limit-resource vrf minimum 2 maximum 4096
+            limit-resource port-channel minimum 0 maximum 511
+            limit-resource m4route-mem minimum 58 maximum 58
+            limit-resource m6route-mem minimum 8 maximum 8
+
+          nv overlay evpn
+          feature ospf
+          feature bgp
+          feature vn-segment-vlan-based
+          feature nv overlay
+
+          no password strength-check
+          username admin password 5 $5$MFFDFN$3LbtY/OeF8SwIR677yhmc6ocUQu6in8igoeV4va7XN9  role network-admin
+          username cisco password 5 $5$FELMKJ$wQiXfldxe0OvbpCKlYxlVf9l/sqkzmPQlwuA.FFAdD8  role network-admin
+          username cisco passphrase  lifetime 99999 warntime 14 gracetime 3
+          ip domain-lookup
+          hardware access-list tcam region racl 1024
+          hardware access-list tcam region vpc-convergence 0
+          hardware access-list tcam region arp-ether 256 double-wide
+          snmp-server user admin network-admin auth md5 333C49447B7D0227EF06A410E4B5D5DFE21A priv aes-128 204A7635441F1268F060A509FEB2D79CFB33 localizedV2key
+          snmp-server user cisco network-admin auth md5 3742015E7E276F36BC5BE61AA9A6D8D4E169 priv aes-128 0147101B3B7C3929D21DAB6EF4B994D3B32D localizedV2key
+          rmon event 1 log trap public description FATAL(1) owner PMON@FATAL
+          rmon event 2 log trap public description CRITICAL(2) owner PMON@CRITICAL
+          rmon event 3 log trap public description ERROR(3) owner PMON@ERROR
+          rmon event 4 log trap public description WARNING(4) owner PMON@WARNING
+          rmon event 5 log trap public description INFORMATION(5) owner PMON@INFO
+
+          vlan 1
+
+          route-map NEXT-HOP-UNCH permit 10
+            set ip next-hop unchanged
+          vrf context management
+
+
+          interface Vlan1
+
+          interface Ethernet1/1
+            no switchport
+            mtu 9216
+            medium p2p
+            ip unnumbered loopback0
+            ip ospf network point-to-point
+            ip router ospf UNDERLAY area 0.0.0.0
+            no shutdown
+
+          interface Ethernet1/2
+            no switchport
+            mtu 9216
+            medium p2p
+            ip unnumbered loopback0
+            ip ospf network point-to-point
+            ip router ospf UNDERLAY area 0.0.0.0
+            no shutdown
+
+          interface Ethernet1/3
+            no switchport
+            mtu 9216
+            medium p2p
+            ip unnumbered loopback0
+            ip ospf network point-to-point
+            ip router ospf UNDERLAY area 0.0.0.0
+            no shutdown
+
+          interface Ethernet1/4
+
+          interface Ethernet1/5
+
+          interface Ethernet1/6
+
+          interface Ethernet1/7
+
+          interface Ethernet1/8
+
+          interface Ethernet1/9
+
+          interface Ethernet1/10
+
+          interface Ethernet1/11
+
+          interface Ethernet1/12
+
+          interface Ethernet1/13
+
+          interface Ethernet1/14
+
+          interface Ethernet1/15
+
+          interface Ethernet1/16
+
+          interface Ethernet1/17
+
+          interface Ethernet1/18
+
+          interface Ethernet1/19
+
+          interface Ethernet1/20
+
+          interface Ethernet1/21
+
+          interface Ethernet1/22
+
+          interface Ethernet1/23
+
+          interface Ethernet1/24
+
+          interface Ethernet1/25
+
+          interface Ethernet1/26
+
+          interface Ethernet1/27
+
+          interface Ethernet1/28
+
+          interface Ethernet1/29
+
+          interface Ethernet1/30
+
+          interface Ethernet1/31
+
+          interface Ethernet1/32
+
+          interface Ethernet1/33
+
+          interface Ethernet1/34
+
+          interface Ethernet1/35
+
+          interface Ethernet1/36
+
+          interface Ethernet1/37
+
+          interface Ethernet1/38
+
+          interface Ethernet1/39
+
+          interface Ethernet1/40
+
+          interface Ethernet1/41
+
+          interface Ethernet1/42
+
+          interface Ethernet1/43
+
+          interface Ethernet1/44
+
+          interface Ethernet1/45
+
+          interface Ethernet1/46
+
+          interface Ethernet1/47
+
+          interface Ethernet1/48
+
+          interface Ethernet1/49
+
+          interface Ethernet1/50
+
+          interface Ethernet1/51
+
+          interface Ethernet1/52
+
+          interface Ethernet1/53
+
+          interface Ethernet1/54
+
+          interface Ethernet1/55
+
+          interface Ethernet1/56
+
+          interface Ethernet1/57
+
+          interface Ethernet1/58
+
+          interface Ethernet1/59
+
+          interface Ethernet1/60
+
+          interface Ethernet1/61
+
+          interface Ethernet1/62
+
+          interface Ethernet1/63
+
+          interface Ethernet1/64
+
+          interface mgmt0
+            vrf member management
+
+          interface loopback0
+            ip address 10.2.0.2/32
+            ip router ospf UNDERLAY area 0.0.0.0
+
+          interface loopback1
+            ip address 10.10.10.11/32
+            ip router ospf UNDERLAY area 0.0.0.0
+          icam monitor scale
+
+          line console
+            exec-timeout 0
+          line vty
+            exec-timeout 0
+          boot nxos bootflash:/nxos64-cs.10.5.3.F.bin
+          router ospf UNDERLAY
+          router bgp 65002
+            address-family l2vpn evpn
+              maximum-paths 100
+              retain route-target all
+            template peer PEER-TEMPLATE
+              update-source loopback1
+              disable-connected-check
+              ebgp-multihop 10
+              address-family l2vpn evpn
+                disable-peer-as-check
+                send-community extended
+                route-map NEXT-HOP-UNCH out
+            neighbor 10.10.10.1
+              inherit peer PEER-TEMPLATE
+              remote-as 65101
+            neighbor 10.10.10.2
+              inherit peer PEER-TEMPLATE
+              remote-as 65102
+            neighbor 10.10.10.3
+              inherit peer PEER-TEMPLATE
+              remote-as 65103
+            neighbor 10.10.10.10
+              inherit peer PEER-TEMPLATE
+              remote-as 65001
+          evpn
+
+          no logging console
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n3
+    image_definition: null
+    label: SPINE-2
+    node_definition: nxosv9000
+    parameters: {}
+    ram: null
+    tags: []
+    x: 147
+    y: -143
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: mgmt0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet1/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet1/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet1/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/4
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: Ethernet1/5
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: Ethernet1/6
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: Ethernet1/7
+        mac_address: null
+        type: physical
+        slot: 7
+  - boot_disk_size: null
+    configuration:
+      - name: nxos_config.txt
+        content: |2-
+
+          !Command: show running-config
+          !Running configuration last done at: Sun Jan 25 17:27:05 2026
+          !Time: Sun Jan 25 17:27:06 2026
+
+          version 10.5(3) Bios:version
+          hostname LEAF-3
+          vdc LEAF-3 id 1
+            limit-resource vlan minimum 16 maximum 4094
+            limit-resource vrf minimum 2 maximum 4096
+            limit-resource port-channel minimum 0 maximum 511
+            limit-resource m4route-mem minimum 58 maximum 58
+            limit-resource m6route-mem minimum 8 maximum 8
+
+          nv overlay evpn
+          feature ospf
+          feature bgp
+          feature vn-segment-vlan-based
+          feature nv overlay
+
+          no password strength-check
+          username admin password 5 $5$BPEHAP$IB.kh5VUPIaBskAT1PtxMGVXNEomLtq6BenWwX7xzID  role network-admin
+          username cisco password 5 $5$BMCNFA$xYMWJlnjjl5/mmViij9SIrgSTcrlHGCglsdiCfEFdWA  role network-admin
+          username cisco passphrase  lifetime 99999 warntime 14 gracetime 3
+          ip domain-lookup
+          hardware access-list tcam region racl 1024
+          hardware access-list tcam region vpc-convergence 0
+          hardware access-list tcam region arp-ether 256 double-wide
+          snmp-server user admin network-admin auth md5 205E0A8B06FF00C60E04C03034D4F2E6A75B priv aes-128 214426AB35D948CA1E08E02A2385B8B7BE4A localizedV2key
+          snmp-server user cisco network-admin auth md5 482E28A46D9D26C60F16983A64828BF9BD5C priv aes-128 204F75A833C50399471BDA34759FA1B9F77F localizedV2key
+          rmon event 1 log trap public description FATAL(1) owner PMON@FATAL
+          rmon event 2 log trap public description CRITICAL(2) owner PMON@CRITICAL
+          rmon event 3 log trap public description ERROR(3) owner PMON@ERROR
+          rmon event 4 log trap public description WARNING(4) owner PMON@WARNING
+          rmon event 5 log trap public description INFORMATION(5) owner PMON@INFO
+
+          vlan 1,300
+          vlan 300
+            vn-segment 1000
+
+          route-map NEXT-HOP-UNCH permit 10
+            set ip next-hop unchanged
+          vrf context management
+
+
+          interface Vlan1
+
+          interface Vlan300
+            no shutdown
+            mtu 9216
+            mac-address 000a.000a.000a
+            ip address 10.1.0.1/16
+
+          interface nve1
+            no shutdown
+            host-reachability protocol bgp
+            source-interface loopback1
+            global suppress-arp
+            global ingress-replication protocol bgp
+            member vni 1000
+
+          interface Ethernet1/1
+            no switchport
+            mtu 9216
+            medium p2p
+            ip unnumbered loopback0
+            ip ospf network point-to-point
+            ip router ospf UNDERLAY area 0.0.0.0
+            no shutdown
+
+          interface Ethernet1/2
+            no switchport
+            mtu 9216
+            medium p2p
+            ip unnumbered loopback0
+            ip ospf network point-to-point
+            ip router ospf UNDERLAY area 0.0.0.0
+            no shutdown
+
+          interface Ethernet1/3
+            switchport access vlan 300
+
+          interface Ethernet1/4
+            switchport access vlan 300
+
+          interface Ethernet1/5
+            switchport access vlan 300
+
+          interface Ethernet1/6
+
+          interface Ethernet1/7
+
+          interface Ethernet1/8
+
+          interface Ethernet1/9
+
+          interface Ethernet1/10
+
+          interface Ethernet1/11
+
+          interface Ethernet1/12
+
+          interface Ethernet1/13
+
+          interface Ethernet1/14
+
+          interface Ethernet1/15
+
+          interface Ethernet1/16
+
+          interface Ethernet1/17
+
+          interface Ethernet1/18
+
+          interface Ethernet1/19
+
+          interface Ethernet1/20
+
+          interface Ethernet1/21
+
+          interface Ethernet1/22
+
+          interface Ethernet1/23
+
+          interface Ethernet1/24
+
+          interface Ethernet1/25
+
+          interface Ethernet1/26
+
+          interface Ethernet1/27
+
+          interface Ethernet1/28
+
+          interface Ethernet1/29
+
+          interface Ethernet1/30
+
+          interface Ethernet1/31
+
+          interface Ethernet1/32
+
+          interface Ethernet1/33
+
+          interface Ethernet1/34
+
+          interface Ethernet1/35
+
+          interface Ethernet1/36
+
+          interface Ethernet1/37
+
+          interface Ethernet1/38
+
+          interface Ethernet1/39
+
+          interface Ethernet1/40
+
+          interface Ethernet1/41
+
+          interface Ethernet1/42
+
+          interface Ethernet1/43
+
+          interface Ethernet1/44
+
+          interface Ethernet1/45
+
+          interface Ethernet1/46
+
+          interface Ethernet1/47
+
+          interface Ethernet1/48
+
+          interface Ethernet1/49
+
+          interface Ethernet1/50
+
+          interface Ethernet1/51
+
+          interface Ethernet1/52
+
+          interface Ethernet1/53
+
+          interface Ethernet1/54
+
+          interface Ethernet1/55
+
+          interface Ethernet1/56
+
+          interface Ethernet1/57
+
+          interface Ethernet1/58
+
+          interface Ethernet1/59
+
+          interface Ethernet1/60
+
+          interface Ethernet1/61
+
+          interface Ethernet1/62
+
+          interface Ethernet1/63
+
+          interface Ethernet1/64
+
+          interface mgmt0
+            vrf member management
+
+          interface loopback0
+            ip address 10.2.0.5/32
+            ip router ospf UNDERLAY area 0.0.0.0
+
+          interface loopback1
+            ip address 10.10.10.3/32
+            ip router ospf UNDERLAY area 0.0.0.0
+          icam monitor scale
+
+          line console
+            exec-timeout 0
+          line vty
+            exec-timeout 0
+          boot nxos bootflash:/nxos64-cs.10.5.3.F.bin
+          router ospf UNDERLAY
+          router bgp 65103
+            address-family l2vpn evpn
+              maximum-paths 100
+              retain route-target all
+            template peer PEER-TEMPLATE
+              update-source loopback1
+              disable-connected-check
+              ebgp-multihop 10
+              address-family l2vpn evpn
+                disable-peer-as-check
+                send-community extended
+                route-map NEXT-HOP-UNCH out
+            neighbor 10.10.10.1
+              inherit peer PEER-TEMPLATE
+              remote-as 65101
+            neighbor 10.10.10.2
+              inherit peer PEER-TEMPLATE
+              remote-as 65102
+            neighbor 10.10.10.10
+              inherit peer PEER-TEMPLATE
+              remote-as 65001
+            neighbor 10.10.10.11
+              inherit peer PEER-TEMPLATE
+              remote-as 65002
+          evpn
+            vni 1000 l2
+              rd 65103:1
+              route-target import 65101:1
+              route-target import 65102:1
+              route-target export 65101:1
+              route-target export 65102:1
+
+          no logging console
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n4
+    image_definition: null
+    label: LEAF-3
+    node_definition: nxosv9000
+    parameters: {}
+    ram: null
+    tags: []
+    x: 265
+    y: 147
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: mgmt0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: Ethernet1/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: Ethernet1/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: Ethernet1/3
+        mac_address: null
+        type: physical
+        slot: 3
+      - id: i5
+        label: Ethernet1/4
+        mac_address: null
+        type: physical
+        slot: 4
+      - id: i6
+        label: Ethernet1/5
+        mac_address: null
+        type: physical
+        slot: 5
+      - id: i7
+        label: Ethernet1/6
+        mac_address: null
+        type: physical
+        slot: 6
+      - id: i8
+        label: Ethernet1/7
+        mac_address: null
+        type: physical
+        slot: 7
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname H1
+          ip address add 10.1.0.10/16 dev eth0
+          ip link set dev eth0 up
+          # configurable user account
+          USERNAME=cisco
+          PASSWORD=cisco
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n5
+    image_definition: null
+    label: H1
+    node_definition: alpine
+    parameters: {}
+    ram: null
+    tags: []
+    x: -283
+    y: 357
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname H2
+          ip address add 10.1.0.20/16 dev eth0
+          ip link set dev eth0 up
+          # configurable user account
+          USERNAME=cisco
+          PASSWORD=cisco
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n6
+    image_definition: null
+    label: H2
+    node_definition: alpine
+    parameters: {}
+    ram: null
+    tags: []
+    x: -6
+    y: 352
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname H3
+          ip address add 10.1.0.30/24 dev eth0
+          ip link set dev eth0 up
+          # configurable user account
+          USERNAME=cisco
+          PASSWORD=cisco
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n7
+    image_definition: null
+    label: H3
+    node_definition: alpine
+    parameters: {}
+    ram: null
+    tags: []
+    x: 244
+    y: 356
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: null
+        type: physical
+        slot: 0
+links:
+  - id: l0
+    n1: n5
+    n2: n1
+    i1: i0
+    i2: i6
+    conditioning: {}
+    label: alpine-1-eth0<->LEAF-1-Ethernet1/5
+  - id: l1
+    n1: n6
+    n2: n2
+    i1: i0
+    i2: i6
+    conditioning: {}
+    label: alpine-2-eth0<->LEAF-2-Ethernet1/5
+  - id: l2
+    n1: n7
+    n2: n4
+    i1: i0
+    i2: i6
+    conditioning: {}
+    label: alpine-3-eth0<->LEAF-3-Ethernet1/5
+  - id: l3
+    n1: n0
+    n2: n1
+    i1: i2
+    i2: i2
+    conditioning: {}
+    label: SPINE-1-Ethernet1/1<->LEAF-1-Ethernet1/1
+  - id: l4
+    n1: n0
+    n2: n2
+    i1: i3
+    i2: i2
+    conditioning: {}
+    label: SPINE-1-Ethernet1/2<->LEAF-2-Ethernet1/1
+  - id: l5
+    n1: n0
+    n2: n4
+    i1: i4
+    i2: i2
+    conditioning: {}
+    label: SPINE-1-Ethernet1/3<->LEAF-3-Ethernet1/1
+  - id: l6
+    n1: n3
+    n2: n1
+    i1: i2
+    i2: i3
+    conditioning: {}
+    label: SPINE-2-Ethernet1/1<->LEAF-1-Ethernet1/2
+  - id: l7
+    n1: n3
+    n2: n2
+    i1: i3
+    i2: i3
+    conditioning: {}
+    label: SPINE-2-Ethernet1/2<->LEAF-2-Ethernet1/2
+  - id: l8
+    n1: n3
+    n2: n4
+    i1: i4
+    i2: i3
+    conditioning: {}
+    label: SPINE-2-Ethernet1/3<->LEAF-3-Ethernet1/2
+lab:
+  description: |-
+    - MP-EBGP EVPN CONTROL PLANE
+    - ARP SUPPRESSION AND INGRESS REPLICATION
+    - OSPF UNDERLAY
+  notes: ''
+  title: N9K MP-EBGP EVPN VXLAN SPINE-LEAF
+  version: 0.3.0
