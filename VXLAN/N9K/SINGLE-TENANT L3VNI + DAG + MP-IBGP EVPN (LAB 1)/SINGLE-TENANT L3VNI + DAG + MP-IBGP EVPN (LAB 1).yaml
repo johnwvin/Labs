@@ -216,30 +216,32 @@ annotations:
     text_bold: false
     text_content: |-
       LOOPBACK IP ADDRESSING:
-
-      - SPINE 1 - LEAF 3 (.1-.5)
+      
+      SPINE 1 - LEAF 3 (.1-.5)
       - UNDERLAY (lo0): 10.1.1.0/24
       - BGP PEERING (lo1): 10.2.2.0/24
+      
+      LEAF 1 - LEAF 3 (.1-.3)
       - NVE/VTEP (lo2): 10.3.3.0/24
       ______________________________________
       ANYCAST DISTRIBUTED GATEWAYS (DAGS):
-
+      
       - VNI 1000 DAG Address: 10.0.0.1/24
       - VNI 2000 DAG Address: 10.0.1.1/24
       - ANYCAST GATEWAY MAC: a.b.c
       ______________________________________
       l3VNI:
-
+      
       - VNI: 1001
       - VRF NAME: L3VNI
       - VLAN: 999
       ______________________________________
       UNDERLAY:
-
+      
       - OSPF
       ______________________________________
       OVERLAY:
-
+      
       - MP-IBGP EVPN
       - VXLAN
     text_font: monospace
